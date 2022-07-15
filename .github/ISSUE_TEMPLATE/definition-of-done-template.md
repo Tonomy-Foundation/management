@@ -9,7 +9,8 @@ assignees: ''
 
 **Description:**
 
-description here
+- What is the purpose/reason for this task?
+- What current or future goal of the TF does it help achieve?
 
 **Definition of done:**
 
